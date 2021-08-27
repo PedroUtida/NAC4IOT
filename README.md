@@ -21,7 +21,7 @@ esteja em uma velocidade elevada a 80 km/h "tweetar" que esta ventando muito.
 
 ## Diagrama do projeto
 
-Node red para tw
+Node red para fazer o tweet
 
 <img src="/NAC4.png" width="550">
 
