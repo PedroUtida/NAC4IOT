@@ -40,7 +40,3 @@ Para executar as linha de código das seguintes pastas é necessário ter em sua
 [Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
 
-### Referências 
-
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
