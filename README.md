@@ -37,6 +37,6 @@ Para executar as linha de código das seguintes pastas é necessário ter em sua
 
 ## Link de vídeo demonstração
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/rqJQvg7yEmM)
 
 
