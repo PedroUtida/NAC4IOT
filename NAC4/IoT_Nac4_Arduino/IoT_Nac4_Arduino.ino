@@ -101,3 +101,23 @@ void lux()
   double potencia = 1 / alpha;
   Lout = pow(Bruh, potencia);
 }
+
+// CALCULOS - VELOCIDADE DO VENTO
+void windvelocity()
+{
+  counter = 0;  
+  attachInterrupt(digitalPinToInterrupt(2), addcount, RISING);
+  unsigned long millis();       
+  long startTime = millis();
+  while(millis() < startTime + 1000) {}
+  int RPM = ((counter)*60);
+  velocidadeVento = (((4 * pi * radius * RPM)/60) / 1000)*3.6;
+}
+
+ 
+
+//Incrementa contador
+void addcount()
+{
+  counter++;
+} 
